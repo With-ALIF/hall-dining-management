@@ -11,7 +11,7 @@ The project aims to provide a **modern, fast, and intuitive** interface for both
 ---
 <b>🚀 <h1>Live Demo</h1></b>
 
-<b>🔗 https://with-alif.github.io/mess-web/</b>
+<b>🔗 https://hall-dining-management.vercel.app/</b>
 
 A fully offline, browser-based hall mess management system built using HTML + CSS + Vanilla JavaScript (ES Modules) with localStorage as database.
 
