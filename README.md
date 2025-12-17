@@ -5,8 +5,7 @@
 A modern, browser-based system to manage a university hall mess — from daily meal booking to monthly billing — built with **HTML, CSS, and Vanilla JavaScript (ES Modules)** and powered by `localStorage`.
 
 ---
-#🌐 [Live Demo](https://hall-dining-management.vercel.app/) · 🗄️ [Server Repo](https://github.com/With-ALIF/hall-dining-management) · 💻 [C Project](https://github.com/With-ALIF/mess_system_C)
-
+🌐 [Live Demo](https://hall-dining-management.vercel.app/) · 🗄️ [Server Repo](https://github.com/With-ALIF/hall-dining-management) · 💻 [C Project](https://github.com/With-ALIF/mess_system_C)
 
 ---
 
