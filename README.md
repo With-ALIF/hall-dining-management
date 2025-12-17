@@ -1,11 +1,12 @@
+<img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scripting-JavaScript-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Storage-localStorage-green?style=for-the-badge" /><img src="https://img.shields.io/badge/Domain-Mess%20Management%20System-blue?style=for-the-badge" />
+
 # 🎓 Student Hall Mess Management System
 
 A modern, browser-based system to manage a university hall mess — from daily meal booking to monthly billing — built with **HTML, CSS, and Vanilla JavaScript (ES Modules)** and powered by `localStorage`.
 
-<img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scripting-JavaScript-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Storage-localStorage-green?style=for-the-badge" />
 
+🌐 [Live Demo](https://hall-dining-management.vercel.app/) · 🗄️ [Server Repo](https://github.com/With-ALIF/hall-dining-management) · 💻 [C Project](https://github.com/With-ALIF/mess_system_C)
 
-[▶️ Visit Our Site](https://with-alif.github.io/mess-web/)  
 
 ---
 
@@ -69,7 +70,6 @@ A modern, browser-based system to manage a university hall mess — from daily m
 
 ### Meal Report (PDF / JPG Export)
 <img src="./picture/meal-report.jpg" width="300">
----
 
 ## 🛠 Tech Stack
 
